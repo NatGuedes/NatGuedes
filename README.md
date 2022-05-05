@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NatGuedes
-- 👀 Iniciando estudos sobre desenvolvimento web. 
+- 👋 Olá, tudo bem? Meu nome é Natália - @NatGuedes -
+- 👀 Estou iniciando os estudos na área de desenvolvimento web. 
 - Tudo por aqui é novo, estou quebrando a cabeça pra entender mas com bastante disposição para evoluir.
 
 <!---
